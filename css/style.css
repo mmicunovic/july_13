@@ -80,6 +80,10 @@ hr {
 	font-weight: 700;
 	color: #333;
 	text-transform: uppercase;
+	padding: 6px;
+}
+#menu .logo {
+	max-width: 280px;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
